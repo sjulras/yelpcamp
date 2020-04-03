@@ -1,0 +1,40 @@
+.thumbnail img{
+    width: 100%;
+   
+}
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 20px;
+}
+#area{
+    width: 200%;
+}
+#del_form{
+    display: inline;
+}
+#cke_editori  {
+    /* margin-left: -300px; */
+    width: 50%;
+}
+#cke_description {
+    /* margin-left: -300px; */
+    width: 50%;
+}
+.delbutton{
+display: inline;
+}
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#smi{
+    height: 150px;
+}
+#search{
+    margin: 7px;
+}
